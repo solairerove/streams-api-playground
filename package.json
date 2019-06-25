@@ -1,0 +1,14 @@
+{
+  "name": "streams-api-playground",
+  "version": "1.0.0",
+  "description": "streams-api-playground",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server -p 3001 -w db.json"
+  },
+  "author": "solairerove",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.15.0"
+  }
+}
