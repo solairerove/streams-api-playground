@@ -1,3 +1,19 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "sdds",
+      "description": "dsd",
+      "id": 1
+    },
+    {
+      "title": "Suka",
+      "description": "Bliat",
+      "id": 2
+    },
+    {
+      "title": "bliat",
+      "description": "dada00)",
+      "id": 5
+    }
+  ]
 }
